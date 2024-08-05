@@ -49,8 +49,6 @@ This project gives a general idea of how image classification can be done effici
 
 
 
-## Screenshots
 
-"C:\Users\SIMRAN MAITY\Downloads\WhatsApp Video 2024-08-05 at 8.25.41 PM.mp4"
 
 
